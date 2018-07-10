@@ -1,4 +1,4 @@
-# Analyzing-CIA-Factbook-Data-Using-SQLite-and-Python
+Analyzing-CIA-Factbook-Data-Using-SQLite-and-Python
 =======================================================
 
 Overview of the Data(Step 1)
