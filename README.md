@@ -6,3 +6,10 @@ Overview of the Data(Step 1)
 Import pandas and sqlite3.<br>
 Connect to `factbook.db` and use `pandas.read_sql_query()` to return information on the tables in the database.<br>
 Write and run another query that returns the first 5 rows of the `facts` table in the database.<br>
+
+Summary Statistics
+-------------------------------------------------------
+minimum population<br>
+maximum population<br>
+minimum population growth<br>
+maximum population growth<br>
