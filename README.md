@@ -17,14 +17,14 @@ Write a single query that returns the:
 
 Exploring Outliers(Step 3)
 -------------------------------------------------------
-Write a query that returns the countrie(s) with a population of 0.<br>
-Write a query that returns the countrie(s) with a population of 7256490011.<br>
+Write a query that returns the countrie(s) with a population of `0`.<br>
+Write a query that returns the countrie(s) with a population of `7256490011`.<br>
 In a markdown cell, type up your observations on these rows.<br>
 
 Histograms(Step 4)
 -------------------------------------------------------
 Using just the non-outlier rows, generate a 2 by 2 grid of histograms for the following columns:
-* population
-* population_growth
-* birth_rate
-* death_rate
+* `population`
+* `population_growth`
+* `birth_rate`
+* `death_rate`
